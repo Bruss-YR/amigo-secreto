@@ -17,3 +17,4 @@ Mensaje destacado: El ganador se muestra en un mensaje resaltado, ubicado arriba
 Lista dinámica: Los nombres agregados se muestran en una lista visible que desaparece temporalmente tras el sorteo.
 
 Botón de sorteo activado/desactivado: Se activa solo cuando hay nombres en la lista.
+file:///C:/Users/darde/Downloads/WhatsApp%20Image%202025-03-01%20at%208.34.25%20PM.jpeg

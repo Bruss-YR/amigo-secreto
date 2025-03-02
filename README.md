@@ -17,4 +17,4 @@ Mensaje destacado: El ganador se muestra en un mensaje resaltado, ubicado arriba
 Lista dinámica: Los nombres agregados se muestran en una lista visible que desaparece temporalmente tras el sorteo.
 
 Botón de sorteo activado/desactivado: Se activa solo cuando hay nombres en la lista.
-
+![Image](https://github.com/user-attachments/assets/0101f5db-d75b-4439-b7f5-f77720357648)

@@ -18,5 +18,4 @@ Lista dinámica: Los nombres agregados se muestran en una lista visible que desa
 
 Botón de sorteo activado/desactivado: Se activa solo cuando hay nombres en la lista.
 ![Image](https://github.com/user-attachments/assets/0101f5db-d75b-4439-b7f5-f77720357648)
-![Image](https://github.com/user-attachments/assets/4172a3cc-2267-4241-ba43-53029fa88d66)
-![Image](https://github.com/user-attachments/assets/98ac5fca-6a28-4138-8688-b47eaae99b7a)
+![Image](https://github.com/user-attachments/assets/48228319-2dbd-463f-a981-850e020282cc)
